@@ -7,7 +7,7 @@ It demonstrates **data cleaning**, **exploratory data analysis (EDA)**, and **vi
 ---
 
 ## Project Structure
-heart-disease-analysis/
+heart-disease-analysis
 ├── data/ # Raw dataset
 ├── code/ # Python code file for analysis
 ├── reports/ # Plots or figures
@@ -30,4 +30,3 @@ heart-disease-analysis/
 git clone https://github.com/crucioarmus/heart_disease_data_analysis.git
 conda activate dataenv
 python code/Heart_Disease.py
-

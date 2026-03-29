@@ -8,12 +8,12 @@ It demonstrates **data cleaning**, **exploratory data analysis (EDA)**, and **vi
 
 ## Project Structure
 heart-disease-analysis
-├── data/ # Raw dataset
-├── code/ # Python code file for analysis
-├── reports/ # Plots or figures
-├── .gitignore # Ignored files (virtual env, temp files)
-├── README.md # Project overview
-└── requirements.txt # Python dependencies
+data/ # Raw dataset
+code/ # Python code file for analysis
+reports/ # Plots or figures
+ .gitignore # Ignored files (virtual env, temp files)
+README.md # Project overview
+ requirements.txt # Python dependencies
 
 ---
 
